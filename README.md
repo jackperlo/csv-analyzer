@@ -9,7 +9,7 @@ This script reads order data from a CSV file, analyzes the data to find records 
 ### Prerequisites
 
 - Node.js installed on your system.
-- The `csv-parser` package installed. You can install it by running:
+- The npm packages installed. You can install it by running:
 
   ```bash
   npm i
