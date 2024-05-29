@@ -12,7 +12,7 @@ This script reads order data from a CSV file, analyzes the data to find records 
 - The `csv-parser` package installed. You can install it by running:
 
   ```bash
-  npm install csv-parser
+  npm i
   ```
 
 ## Execution
